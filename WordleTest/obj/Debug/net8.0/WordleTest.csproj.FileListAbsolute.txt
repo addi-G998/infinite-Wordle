@@ -1,0 +1,14 @@
+C:\Users\addyi\source\repos\WordleTest\WordleTest\bin\Debug\net8.0\WordleTest.exe
+C:\Users\addyi\source\repos\WordleTest\WordleTest\bin\Debug\net8.0\WordleTest.deps.json
+C:\Users\addyi\source\repos\WordleTest\WordleTest\bin\Debug\net8.0\WordleTest.runtimeconfig.json
+C:\Users\addyi\source\repos\WordleTest\WordleTest\bin\Debug\net8.0\WordleTest.dll
+C:\Users\addyi\source\repos\WordleTest\WordleTest\bin\Debug\net8.0\WordleTest.pdb
+C:\Users\addyi\source\repos\WordleTest\WordleTest\obj\Debug\net8.0\WordleTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\addyi\source\repos\WordleTest\WordleTest\obj\Debug\net8.0\WordleTest.AssemblyInfoInputs.cache
+C:\Users\addyi\source\repos\WordleTest\WordleTest\obj\Debug\net8.0\WordleTest.AssemblyInfo.cs
+C:\Users\addyi\source\repos\WordleTest\WordleTest\obj\Debug\net8.0\WordleTest.csproj.CoreCompileInputs.cache
+C:\Users\addyi\source\repos\WordleTest\WordleTest\obj\Debug\net8.0\WordleTest.dll
+C:\Users\addyi\source\repos\WordleTest\WordleTest\obj\Debug\net8.0\refint\WordleTest.dll
+C:\Users\addyi\source\repos\WordleTest\WordleTest\obj\Debug\net8.0\WordleTest.pdb
+C:\Users\addyi\source\repos\WordleTest\WordleTest\obj\Debug\net8.0\WordleTest.genruntimeconfig.cache
+C:\Users\addyi\source\repos\WordleTest\WordleTest\obj\Debug\net8.0\ref\WordleTest.dll
