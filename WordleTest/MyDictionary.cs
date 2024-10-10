@@ -40,7 +40,7 @@ namespace WordleTest
         {
             try
             {
-                string url = "https://random-word-form.herokuapp.com/word?number=1&length=" + length;
+                string url = "https://random-word-api.herokuapp.com/word?number=1&length=" + length;
                 var response = await client.GetFromJsonAsync<List<string>>(url);
 
                 if (response != null && response.Count > 0)
